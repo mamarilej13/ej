@@ -1,18 +1,20 @@
 body {
-  background-color: #fca652;
+  font-family: 'Merriweather', serif;
+  background-image: linear-gradient(to right, aqua, blue);
 }
 hr {
   border-color: gray;
   border-style: none;
   border-top-style: dotted;
-  border-width: 4px;  
+  border-width: 10px;  
   width: 3%;	
 }
 h1 {
-  color: #66BFBF;
   font-size: 50px;
+  font-family: 'Sacramento', cursive;
 }
 h3 {
-  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
 }
+
 
